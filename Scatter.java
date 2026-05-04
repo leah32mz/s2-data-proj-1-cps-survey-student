@@ -7,7 +7,7 @@ import org.jfree.data.xy.XYDataset;
 
 import javax.swing.*;
 
-public class Scatter {
+public class Scatter { 
 
     public void displayScatterPlot(double[] x, double[] y) {
         SwingUtilities.invokeLater(() -> {
