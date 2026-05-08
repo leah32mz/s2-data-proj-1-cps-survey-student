@@ -110,7 +110,7 @@ public class ReadDataStudent{
         System.out.println();
     }
     public static void main(String[] args) {
-        ReadData rd = new ReadData();
+        ReadDataStudent rd = new ReadDataStudent();
         rd.read();
         rd.runRegression();
     }
